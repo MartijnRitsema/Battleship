@@ -1,0 +1,23 @@
+# Project exclude paths
+/.gradle/
+/Battleship/task/build/
+/Battleship/task/out/
+/Battleship/task/out/production/classes/
+/Topics/Custom exceptions/Checked exception with constructor/out/
+/Topics/Custom exceptions/Checked exception with constructor/out/production/classes/
+/Topics/Custom exceptions/DriverNotReadyException/out/
+/Topics/Custom exceptions/DriverNotReadyException/out/production/classes/
+/Topics/Custom exceptions/Square class/out/
+/Topics/Custom exceptions/Square class/out/production/classes/
+/Topics/Files/Are siblings/out/
+/Topics/Files/Are siblings/out/production/classes/
+/Topics/Input streams/Convert to bytes/out/
+/Topics/Input streams/Convert to bytes/out/production/classes/
+/Topics/Input streams/Reverse input text/out/
+/Topics/Input streams/Reverse input text/out/production/classes/
+/Topics/Throwing exceptions/Days of the week/out/
+/Topics/Throwing exceptions/Days of the week/out/production/classes/
+/Topics/Throwing exceptions/Throw an IOException/out/
+/Topics/Throwing exceptions/Throw an IOException/out/production/classes/
+/Topics/Throwing exceptions/Throw an unchecked exception/out/
+/Topics/Throwing exceptions/Throw an unchecked exception/out/production/classes/
